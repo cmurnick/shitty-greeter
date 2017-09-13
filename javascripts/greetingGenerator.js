@@ -3,11 +3,12 @@
 const french = require('./french.js');
 const italian = require('./italian.js');
 const spanish = require('./spanish.js');
+const english = require('./english.js');
 
 
 const greetingGenerator = {
 
-	french, italian, spanish
+	french, italian, spanish, english
 
 };
 
